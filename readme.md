@@ -4,7 +4,7 @@ Endpoint para obter o menor caminho possível entre dois vértices.
 
 ### Requisição
 
-`POST /minPath
+`POST /minPath`
 
 #### Corpo da Requisição
 
